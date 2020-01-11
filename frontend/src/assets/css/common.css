@@ -1,0 +1,11 @@
+body{
+	width:100%;
+	height:100%;  
+	margin:0px 0px;
+	padding:0px 0px;
+}
+
+
+.product-detail-part .product-detail-image-content img{
+	height:300px; 
+}
